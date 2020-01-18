@@ -61,7 +61,7 @@ export class Header extends Component<{}, {}> {
       <div id="header">
         <h1 id="logo" style={{"font-size": height}}>
           <span ref={this.setInnerRef.bind(this)} />
-          Truevers International Press
+          Truevers國際出版社
         </h1>
         <div id="links">
           <div class="links">
